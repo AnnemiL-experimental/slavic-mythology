@@ -18,7 +18,6 @@ This repository collects documents and books on Slavic mythology, including Russ
 - Слово о полку Игореве Взгляд лингвиста (The Tale of Igor's Campaign from the Viewpoint of a Linguist)
 - 俄国和斯拉夫的神话和传说
 - 斯拉夫神话原初编年史
-- 斯拉夫神话资料目录 
 - 往事纪年译注  
 - 《伊戈尔远征记》魏荒弩译（人民文学出版社）
 
