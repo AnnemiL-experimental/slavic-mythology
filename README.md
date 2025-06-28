@@ -9,7 +9,7 @@ This repository collects documents and books on Slavic mythology, including Russ
 
 ## 📂 文件示例 | Sample Files
 
-- 《俄罗斯法典》译注（王敏善兰州大学）
+- 《俄罗斯法典》译注（王钺兰州大学）
 - *Dictionary of Superstitions and Mythology*
 - *The Russian Primary Chronicles*
 - *The Mythology of All Races* (Slavic Volume)
