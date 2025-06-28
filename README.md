@@ -9,13 +9,18 @@ This repository collects documents and books on Slavic mythology, including Russ
 
 ## 📂 文件示例 | Sample Files
 
-- 《俄罗斯法典》译注（王钺兰州大学）
-- *Dictionary of Superstitions and Mythology*
-- *The Russian Primary Chronicles*
-- *The Mythology of All Races* (Slavic Volume)
-- 《斯拉夫神话图解手册》
-- 德国视角下的斯拉夫神话研究文章若干
-- 俄文原版史诗与注释文档（含《伊戈尔远征记》）
+- 《罗斯法典》译注（王钺兰州大学）
+- Dictionary of Superstitions and Mythology
+- The Mythology of all races (Volume 3) Celtic and Slavic  
+- The Russian Primary Chronicles  
+- The Russian story book, containing tales from the song-cycles of Kiev and Novgorod and other early sources - Wilson, Richard 
+- The songs of the Russian people, as illustrative of Slavonic mythology and Russian social life - Ralston, William Ralston 
+- Слово о полку Игореве Взгляд лингвиста (The Tale of Igor's Campaign from the Viewpoint of a Linguist)
+- 俄国和斯拉夫的神话和传说
+- 斯拉夫神话原初编年史
+- 斯拉夫神话资料目录 
+- 往事纪年译注  
+- 《伊戈尔远征记》魏荒弩译（人民文学出版社）
 
 ---
 
